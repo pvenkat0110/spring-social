@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: venkat
+Build-Jdk: 11.0.2
+Implementation-Title: spring-social
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: gmailapitest
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-social
+Created-By: Maven Integration for Eclipse
+
